@@ -56,8 +56,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - The `discord.py` library for Discord bot integration.
-- Yahoo Finance and AlphaVantage for providing stock data APIs.
+- Yahoo Finance for providing stock data APIs.
 - The open-source community for various Python libraries used in this project.
+
 ![D1](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/eea168f3-61be-4a83-8c7a-32c980c5d275)
 
 ![D2](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/5f2556a6-fb48-4613-afad-4ea3c1cea66b)
